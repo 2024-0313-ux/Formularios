@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\bin\Debug\net8.0-windows\Ejercicio26_SumaDesde8.exe
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\bin\Debug\net8.0-windows\Ejercicio26_SumaDesde8.deps.json
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\bin\Debug\net8.0-windows\Ejercicio26_SumaDesde8.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\bin\Debug\net8.0-windows\Ejercicio26_SumaDesde8.dll
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\bin\Debug\net8.0-windows\Ejercicio26_SumaDesde8.pdb
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.dll
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\refint\Ejercicio26_SumaDesde8.dll
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.pdb
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\Ejercicio26_SumaDesde8.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio26_SumaDesde8\Ejercicio26_SumaDesde8\obj\Debug\net8.0-windows\ref\Ejercicio26_SumaDesde8.dll

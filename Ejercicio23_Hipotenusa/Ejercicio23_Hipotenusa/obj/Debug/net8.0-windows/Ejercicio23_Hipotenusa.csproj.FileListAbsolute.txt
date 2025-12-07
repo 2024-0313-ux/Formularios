@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\bin\Debug\net8.0-windows\Ejercicio23_Hipotenusa.exe
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\bin\Debug\net8.0-windows\Ejercicio23_Hipotenusa.deps.json
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\bin\Debug\net8.0-windows\Ejercicio23_Hipotenusa.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\bin\Debug\net8.0-windows\Ejercicio23_Hipotenusa.dll
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\bin\Debug\net8.0-windows\Ejercicio23_Hipotenusa.pdb
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.dll
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\refint\Ejercicio23_Hipotenusa.dll
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.pdb
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\Ejercicio23_Hipotenusa.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio23_Hipotenusa\Ejercicio23_Hipotenusa\obj\Debug\net8.0-windows\ref\Ejercicio23_Hipotenusa.dll

@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\bin\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.exe
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\bin\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.deps.json
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\bin\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\bin\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.dll
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\bin\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.pdb
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.dll
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\refint\Ejercicio25_Restaurant130Consumos.dll
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.pdb
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\Ejercicio25_Restaurant130Consumos.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio25_Restaurant130Consumos\Ejercicio25_Restaurant130Consumos\obj\Debug\net8.0-windows\ref\Ejercicio25_Restaurant130Consumos.dll

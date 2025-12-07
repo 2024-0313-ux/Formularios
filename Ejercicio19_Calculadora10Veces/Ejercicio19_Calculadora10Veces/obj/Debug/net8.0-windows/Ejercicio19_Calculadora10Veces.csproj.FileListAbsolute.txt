@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\bin\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.exe
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\bin\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.deps.json
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\bin\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\bin\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.dll
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\bin\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.pdb
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.dll
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\refint\Ejercicio19_Calculadora10Veces.dll
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.pdb
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\Ejercicio19_Calculadora10Veces.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio19_Calculadora10Veces\Ejercicio19_Calculadora10Veces\obj\Debug\net8.0-windows\ref\Ejercicio19_Calculadora10Veces.dll

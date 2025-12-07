@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.Form1.resources
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\bin\Debug\net8.0-windows\FacturaConIVA.exe
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\bin\Debug\net8.0-windows\FacturaConIVA.deps.json
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\bin\Debug\net8.0-windows\FacturaConIVA.runtimeconfig.json
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\bin\Debug\net8.0-windows\FacturaConIVA.dll
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\bin\Debug\net8.0-windows\FacturaConIVA.pdb
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.dll
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\refint\FacturaConIVA.dll
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.pdb
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\FacturaConIVA.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\FacturaConIVA\FacturaConIVA\obj\Debug\net8.0-windows\ref\FacturaConIVA.dll

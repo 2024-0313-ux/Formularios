@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\bin\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.exe
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\bin\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.deps.json
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\bin\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\bin\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.dll
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\bin\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.pdb
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.dll
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\refint\Ejercicio24_CirculoEsfera.dll
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.pdb
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\Ejercicio24_CirculoEsfera.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio24_CirculoEsfera\Ejercicio24_CirculoEsfera\obj\Debug\net8.0-windows\ref\Ejercicio24_CirculoEsfera.dll

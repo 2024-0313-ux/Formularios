@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\bin\Debug\net8.0-windows\Contador50Numeros.exe
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\bin\Debug\net8.0-windows\Contador50Numeros.deps.json
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\bin\Debug\net8.0-windows\Contador50Numeros.runtimeconfig.json
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\bin\Debug\net8.0-windows\Contador50Numeros.dll
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\bin\Debug\net8.0-windows\Contador50Numeros.pdb
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.Form1.resources
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.dll
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\refint\Contador50Numeros.dll
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.pdb
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\Contador50Numeros.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Contador50Numeros\Contador50Numeros\obj\Debug\net8.0-windows\ref\Contador50Numeros.dll

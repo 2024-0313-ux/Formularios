@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\bin\Debug\net8.0-windows\SumaDigitos.exe
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\bin\Debug\net8.0-windows\SumaDigitos.deps.json
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\bin\Debug\net8.0-windows\SumaDigitos.runtimeconfig.json
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\bin\Debug\net8.0-windows\SumaDigitos.dll
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\bin\Debug\net8.0-windows\SumaDigitos.pdb
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.Form1.resources
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.dll
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\refint\SumaDigitos.dll
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.pdb
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\SumaDigitos.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\SumaDigitos\SumaDigitos\obj\Debug\net8.0-windows\ref\SumaDigitos.dll

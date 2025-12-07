@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\bin\Debug\net8.0-windows\AnalisisNotas.exe
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\bin\Debug\net8.0-windows\AnalisisNotas.deps.json
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\bin\Debug\net8.0-windows\AnalisisNotas.runtimeconfig.json
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\bin\Debug\net8.0-windows\AnalisisNotas.dll
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\bin\Debug\net8.0-windows\AnalisisNotas.pdb
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.Form1.resources
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.dll
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\refint\AnalisisNotas.dll
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.pdb
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\AnalisisNotas.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\AnalisisNotas\AnalisisNotas\obj\Debug\net8.0-windows\ref\AnalisisNotas.dll

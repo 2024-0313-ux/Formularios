@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\bin\Debug\net8.0-windows\MinutosADiasHoras.exe
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\bin\Debug\net8.0-windows\MinutosADiasHoras.deps.json
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\bin\Debug\net8.0-windows\MinutosADiasHoras.runtimeconfig.json
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\bin\Debug\net8.0-windows\MinutosADiasHoras.dll
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\bin\Debug\net8.0-windows\MinutosADiasHoras.pdb
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.Form1.resources
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.dll
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\refint\MinutosADiasHoras.dll
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.pdb
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\MinutosADiasHoras.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\MinutosADiasHoras\MinutosADiasHoras\obj\Debug\net8.0-windows\ref\MinutosADiasHoras.dll

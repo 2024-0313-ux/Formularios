@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\bin\Debug\net8.0-windows\DescuentoMonto.exe
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\bin\Debug\net8.0-windows\DescuentoMonto.deps.json
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\bin\Debug\net8.0-windows\DescuentoMonto.runtimeconfig.json
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\bin\Debug\net8.0-windows\DescuentoMonto.dll
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\bin\Debug\net8.0-windows\DescuentoMonto.pdb
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.Form1.resources
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.dll
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\refint\DescuentoMonto.dll
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.pdb
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\DescuentoMonto.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\DescuentoMonto\DescuentoMonto\obj\Debug\net8.0-windows\ref\DescuentoMonto.dll

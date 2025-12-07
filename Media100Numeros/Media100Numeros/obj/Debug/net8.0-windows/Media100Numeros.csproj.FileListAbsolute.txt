@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\bin\Debug\net8.0-windows\Media100Numeros.exe
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\bin\Debug\net8.0-windows\Media100Numeros.deps.json
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\bin\Debug\net8.0-windows\Media100Numeros.runtimeconfig.json
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\bin\Debug\net8.0-windows\Media100Numeros.dll
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\bin\Debug\net8.0-windows\Media100Numeros.pdb
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.Form1.resources
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.dll
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\refint\Media100Numeros.dll
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.pdb
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\Media100Numeros.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Media100Numeros\Media100Numeros\obj\Debug\net8.0-windows\ref\Media100Numeros.dll

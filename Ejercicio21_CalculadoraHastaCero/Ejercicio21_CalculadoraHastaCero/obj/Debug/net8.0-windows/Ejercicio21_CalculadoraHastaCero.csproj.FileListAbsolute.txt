@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\bin\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.exe
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\bin\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.deps.json
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\bin\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\bin\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.dll
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\bin\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.pdb
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.dll
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\refint\Ejercicio21_CalculadoraHastaCero.dll
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.pdb
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\Ejercicio21_CalculadoraHastaCero.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio21_CalculadoraHastaCero\Ejercicio21_CalculadoraHastaCero\obj\Debug\net8.0-windows\ref\Ejercicio21_CalculadoraHastaCero.dll

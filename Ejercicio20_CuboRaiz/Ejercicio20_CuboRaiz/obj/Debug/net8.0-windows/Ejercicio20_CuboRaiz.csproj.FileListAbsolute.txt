@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\bin\Debug\net8.0-windows\Ejercicio20_CuboRaiz.exe
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\bin\Debug\net8.0-windows\Ejercicio20_CuboRaiz.deps.json
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\bin\Debug\net8.0-windows\Ejercicio20_CuboRaiz.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\bin\Debug\net8.0-windows\Ejercicio20_CuboRaiz.dll
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\bin\Debug\net8.0-windows\Ejercicio20_CuboRaiz.pdb
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.dll
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\refint\Ejercicio20_CuboRaiz.dll
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.pdb
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\Ejercicio20_CuboRaiz.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio20_CuboRaiz\Ejercicio20_CuboRaiz\obj\Debug\net8.0-windows\ref\Ejercicio20_CuboRaiz.dll

@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.Form1.resources
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\bin\Debug\net8.0-windows\ParteFraccionaria.exe
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\bin\Debug\net8.0-windows\ParteFraccionaria.deps.json
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\bin\Debug\net8.0-windows\ParteFraccionaria.runtimeconfig.json
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\bin\Debug\net8.0-windows\ParteFraccionaria.dll
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\bin\Debug\net8.0-windows\ParteFraccionaria.pdb
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.dll
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\refint\ParteFraccionaria.dll
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.pdb
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ParteFraccionaria.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\ParteFraccionaria\ParteFraccionaria\obj\Debug\net8.0-windows\ref\ParteFraccionaria.dll

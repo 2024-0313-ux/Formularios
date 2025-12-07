@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\bin\Debug\net8.0-windows\SumaPrimerosNaturales.exe
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\bin\Debug\net8.0-windows\SumaPrimerosNaturales.deps.json
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\bin\Debug\net8.0-windows\SumaPrimerosNaturales.runtimeconfig.json
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\bin\Debug\net8.0-windows\SumaPrimerosNaturales.dll
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\bin\Debug\net8.0-windows\SumaPrimerosNaturales.pdb
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.Form1.resources
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.dll
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\refint\SumaPrimerosNaturales.dll
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.pdb
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\SumaPrimerosNaturales.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\SumaPrimerosNaturales\SumaPrimerosNaturales\obj\Debug\net8.0-windows\ref\SumaPrimerosNaturales.dll

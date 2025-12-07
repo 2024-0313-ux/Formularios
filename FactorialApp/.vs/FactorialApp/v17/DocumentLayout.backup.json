@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|c:\\users\\miguel\\source\\repos\\factorialapp\\factorialapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|solutionrelative:factorialapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|c:\\users\\miguel\\source\\repos\\factorialapp\\factorialapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|solutionrelative:factorialapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|c:\\users\\miguel\\source\\repos\\factorialapp\\factorialapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9000290B-1454-47BE-A773-6E32ED8259A6}|FactorialApp\\FactorialApp.csproj|solutionrelative:factorialapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FactorialApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.Designer.cs*",
+              "RelativeToolTip": "FactorialApp\\Form1.Designer.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:25:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FactorialApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.cs*",
+              "RelativeToolTip": "FactorialApp\\Form1.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA8wFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:24:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FactorialApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\FactorialApp\\FactorialApp\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FactorialApp\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:22:57.811Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

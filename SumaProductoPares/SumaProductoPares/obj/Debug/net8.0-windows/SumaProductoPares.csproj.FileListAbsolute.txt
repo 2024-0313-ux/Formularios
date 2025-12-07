@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\bin\Debug\net8.0-windows\SumaProductoPares.exe
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\bin\Debug\net8.0-windows\SumaProductoPares.deps.json
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\bin\Debug\net8.0-windows\SumaProductoPares.runtimeconfig.json
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\bin\Debug\net8.0-windows\SumaProductoPares.dll
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\bin\Debug\net8.0-windows\SumaProductoPares.pdb
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.Form1.resources
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.dll
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\refint\SumaProductoPares.dll
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.pdb
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\SumaProductoPares.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\SumaProductoPares\SumaProductoPares\obj\Debug\net8.0-windows\ref\SumaProductoPares.dll

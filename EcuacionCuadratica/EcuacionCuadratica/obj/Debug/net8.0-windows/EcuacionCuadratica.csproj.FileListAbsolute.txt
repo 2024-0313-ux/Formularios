@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\net8.0-windows\EcuacionCuadratica.exe
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\net8.0-windows\EcuacionCuadratica.deps.json
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\net8.0-windows\EcuacionCuadratica.runtimeconfig.json
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\net8.0-windows\EcuacionCuadratica.dll
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\net8.0-windows\EcuacionCuadratica.pdb
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.Form1.resources
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.dll
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\refint\EcuacionCuadratica.dll
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.pdb
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\EcuacionCuadratica.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\net8.0-windows\ref\EcuacionCuadratica.dll

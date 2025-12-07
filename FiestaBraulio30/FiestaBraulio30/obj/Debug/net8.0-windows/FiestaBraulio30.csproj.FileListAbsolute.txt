@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\bin\Debug\net8.0-windows\FiestaBraulio30.exe
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\bin\Debug\net8.0-windows\FiestaBraulio30.deps.json
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\bin\Debug\net8.0-windows\FiestaBraulio30.runtimeconfig.json
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\bin\Debug\net8.0-windows\FiestaBraulio30.dll
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\bin\Debug\net8.0-windows\FiestaBraulio30.pdb
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.Form1.resources
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.dll
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\refint\FiestaBraulio30.dll
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.pdb
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\FiestaBraulio30.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\FiestaBraulio30\FiestaBraulio30\obj\Debug\net8.0-windows\ref\FiestaBraulio30.dll

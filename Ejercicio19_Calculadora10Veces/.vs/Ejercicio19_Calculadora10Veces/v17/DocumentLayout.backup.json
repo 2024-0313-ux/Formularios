@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|c:\\users\\miguel\\source\\repos\\ejercicio19_calculadora10veces\\ejercicio19_calculadora10veces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|solutionrelative:ejercicio19_calculadora10veces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|c:\\users\\miguel\\source\\repos\\ejercicio19_calculadora10veces\\ejercicio19_calculadora10veces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|solutionrelative:ejercicio19_calculadora10veces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|c:\\users\\miguel\\source\\repos\\ejercicio19_calculadora10veces\\ejercicio19_calculadora10veces\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B15BEDD-8881-4EB4-978D-7E0387585E6B}|Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces.csproj|solutionrelative:ejercicio19_calculadora10veces\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio19_Calculadora10Veces\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio19_Calculadora10Veces\\Form1.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:31:11.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio19_Calculadora10Veces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.cs*",
+              "RelativeToolTip": "Ejercicio19_Calculadora10Veces\\Form1.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:29:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio19_Calculadora10Veces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Ejercicio19_Calculadora10Veces\\Ejercicio19_Calculadora10Veces\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Ejercicio19_Calculadora10Veces\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:27:04.157Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

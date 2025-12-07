@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\bin\Debug\net8.0-windows\SumaSalariosTrabajadores.exe
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\bin\Debug\net8.0-windows\SumaSalariosTrabajadores.deps.json
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\bin\Debug\net8.0-windows\SumaSalariosTrabajadores.runtimeconfig.json
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\bin\Debug\net8.0-windows\SumaSalariosTrabajadores.dll
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\bin\Debug\net8.0-windows\SumaSalariosTrabajadores.pdb
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.Form1.resources
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.dll
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\refint\SumaSalariosTrabajadores.dll
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.pdb
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\SumaSalariosTrabajadores.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\SumaSalariosTrabajadores\SumaSalariosTrabajadores\obj\Debug\net8.0-windows\ref\SumaSalariosTrabajadores.dll

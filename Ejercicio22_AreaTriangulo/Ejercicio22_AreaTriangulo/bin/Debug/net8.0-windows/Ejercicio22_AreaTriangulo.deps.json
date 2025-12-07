@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio22_AreaTriangulo/1.0.0": {
+        "runtime": {
+          "Ejercicio22_AreaTriangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio22_AreaTriangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

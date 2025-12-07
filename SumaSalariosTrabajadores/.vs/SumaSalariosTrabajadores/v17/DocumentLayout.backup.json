@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|c:\\users\\miguel\\source\\repos\\sumasalariostrabajadores\\sumasalariostrabajadores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|solutionrelative:sumasalariostrabajadores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|c:\\users\\miguel\\source\\repos\\sumasalariostrabajadores\\sumasalariostrabajadores\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|solutionrelative:sumasalariostrabajadores\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|c:\\users\\miguel\\source\\repos\\sumasalariostrabajadores\\sumasalariostrabajadores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749B6BA-5390-445D-87ED-0F2FBA7EFEDC}|SumaSalariosTrabajadores\\SumaSalariosTrabajadores.csproj|solutionrelative:sumasalariostrabajadores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SumaSalariosTrabajadores\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.Designer.cs*",
+              "RelativeToolTip": "SumaSalariosTrabajadores\\Form1.Designer.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwKgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:44:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.cs",
+              "RelativeDocumentMoniker": "SumaSalariosTrabajadores\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.cs*",
+              "RelativeToolTip": "SumaSalariosTrabajadores\\Form1.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:43:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.cs",
+              "RelativeDocumentMoniker": "SumaSalariosTrabajadores\\Form1.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\SumaSalariosTrabajadores\\SumaSalariosTrabajadores\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SumaSalariosTrabajadores\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:42:15.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

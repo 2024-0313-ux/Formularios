@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\bin\Debug\net8.0-windows\Ejercicio27_CajaBarner.exe
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\bin\Debug\net8.0-windows\Ejercicio27_CajaBarner.deps.json
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\bin\Debug\net8.0-windows\Ejercicio27_CajaBarner.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\bin\Debug\net8.0-windows\Ejercicio27_CajaBarner.dll
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\bin\Debug\net8.0-windows\Ejercicio27_CajaBarner.pdb
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.dll
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\refint\Ejercicio27_CajaBarner.dll
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.pdb
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\Ejercicio27_CajaBarner.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio27_CajaBarner\Ejercicio27_CajaBarner\obj\Debug\net8.0-windows\ref\Ejercicio27_CajaBarner.dll

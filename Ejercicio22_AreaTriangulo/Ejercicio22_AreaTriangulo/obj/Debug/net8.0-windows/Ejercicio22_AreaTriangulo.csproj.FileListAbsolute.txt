@@ -1,0 +1,16 @@
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\bin\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.exe
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\bin\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.deps.json
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\bin\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.runtimeconfig.json
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\bin\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.dll
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\bin\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.pdb
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.Form1.resources
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.dll
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\refint\Ejercicio22_AreaTriangulo.dll
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.pdb
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\Ejercicio22_AreaTriangulo.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\Ejercicio22_AreaTriangulo\Ejercicio22_AreaTriangulo\obj\Debug\net8.0-windows\ref\Ejercicio22_AreaTriangulo.dll
